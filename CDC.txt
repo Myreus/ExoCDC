@@ -1,0 +1,30 @@
+
+
+- Une introduction détaillée, avec une présentation de l’entreprise et des intervenants
+TreeTech Solutions, SAS existante depuis le 01/03/2023 comptant 15 employés. Tree Tech agit dans le domaine de la technologie et robotique.
+PDG : Edward Baker
+Veut un site pour mettre en avant son produit de robot de gestion de plantes d'intérieur efficace avec MàJ régulières. Soutien technique complet.
+
+- Le contexte du projet
+- La charte graphique et la charte éditoriale
+- L’arborescence
+- Le nom de domaine et l’hébergement
+- La définition des besoins
+- Contraintes techniques
+Petite équipe 
+- Les propriétés intellectuelles
+- Le budget et la charge de travail
+- Les délais et les jalons
+- Les livrables
+- Les annexes
+
+Questions restantes :
+
+Maintenance et hébergeur, compris dans le budget ?
+Marketing compris dans le budget ? Pour le site uniquement ?
+Quelles technologies ? (Faire 2 propositions dans le CDC)
+Avez-vous une solution d'hébergement (gratuit ? Compris dans le budget ?)
+Hébergé en France ou pas ?
+Un ou plusieurs serveurs ?
+Quelles données souhaitent-ils récupérer ? (cookies, outils statistiques)
+Le mappage des lieux par le robot, où sont stockées les données des scans des maisons/appartements ?

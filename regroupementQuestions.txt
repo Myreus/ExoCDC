@@ -1,0 +1,25 @@
+Qui ?
+	Qui ? TreeTech Solutions, Monsieur Baker…
+		Qui seront nos interlocuteurs au long du projet ?
+	Avec qui ? Nous, Fant4stic
+	Pour qui ? Toute personne possédant des plantes d’intérieur et nécessitant aide, conseils, astuces pour les entretenir
+		Visez-vous un / plusieurs clients types en particulier ?
+Quoi ?
+	Quoi ? Un site pour mettre en avant et proposer à la vente son produit
+		Pourriez vous me décrire à quoi voudriez-vous que le site ressemble, comment voudriez-vous qu’il se présente, quelles fonctionnalités ?
+		Stocks ou production à la demande, délais de productions, production mensuelle ?
+Où ?
+	Quel secteur géographique ?
+	Quels modes de livraison, quels moyens de paiement ?
+Quand ?
+	Sous quel délai ? 2 mois
+		Déploiement en deux étapes ? Présentation / mise en avant du produit, puis possibilité de l’acheter ? Délais de déploiement ?
+Comment ?
+	Quelles technologies ?
+	Notre organisation (interne, prestataires) ? Qui fait quoi ?
+Combien ?
+	Coût du projet ?
+Pourquoi ?
+	Raisons, facteurs déclenchants, motivations ?
+		Avez-vous fait une étude de marché ?
+		Objectifs de vente ?

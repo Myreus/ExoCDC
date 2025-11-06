@@ -1,0 +1,22 @@
+rôle Djawed : Lead Dév'
+
+Qui ?
+- Edward Baker PDG de TreeTech Solutions. D'autres associés ?
+- On va avoir besoin d'avoir des retours, qui sera notre interlocuteur tout au long du projet ?
+- Qui est son/ses clients types ? Quelles sont leurs utilisations du produit ?
+
+Quoi ?
+- Quel est le problème ? Vendre le robot ? Le client veut-il que le robot soit disponible à l'achat sur internet ou uniquement en boutique ? (Si c'est en boutique, prise de rdv ?)
+- Mise en avant. Quelles sont les caractéristiques du robot qui doivent être mises en avant, site vitrine ? Y'a-t-il plusieurs modèles ? Y'a-t-il des limitations techniques aux capacités du robot ? Souhaite-t-il un service client/SAV ?
+- éco-responsabilité, est-il prêt à augmenter le délai pour nous laisser le temps de coder le site sans framework ?
+- Est-ce qu'il veut des images/des vidéos/des contenus intéractifs ? Si oui peux-t-il nous fournir les ressources nécessaires ?
+- Quels sont les prix, les stocks ?
+- 
+
+Où ?
+- 
+
+
+
+- Modernité : à préciser, est-ce que cela passe uniquement par le design ou également les fonctionnalités ?
+- Veut-il 
